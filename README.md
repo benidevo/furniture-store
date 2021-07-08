@@ -3,7 +3,7 @@
 A One-page website for a furniture store built with only HTML and CSS
 - [Preview](https://myfurniturestorepage.netlify.app)
 
-![Screenshot](img/furniture_store.png?raw=true "Furniture Store")
+![Screenshot](images/furniture_store.png?raw=true "Furniture Store")
 
 ## :rocket: Technologies ##
 
